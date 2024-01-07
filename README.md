@@ -1,4 +1,9 @@
-### Hi there 👋
+### 👋 Hi! My name's Elan. I like to make games, and other stuff too.
+
+<div display="flex">
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
+  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
+</div>
 
 <!--
 **Elan-Rubin/Elan-Rubin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
