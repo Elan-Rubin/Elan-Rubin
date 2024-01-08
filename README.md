@@ -1,6 +1,8 @@
-### 👋 Hi! My name's Elan. I like to make games, and other stuff too.
+👋 Hi! My name's Elan. I like to make games, and other stuff too.
 
-Development Tech Stack:
+---
+
+**Development Tools:**
 <div display="flex">
   <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
@@ -10,7 +12,9 @@ Development Tech Stack:
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
 </div>
 
-Art Tech Stack:
+---
+
+**Art Tools:**
 <div display = "flex">
     <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="Photoshop"/>
     <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="Illustrator"/>
@@ -18,4 +22,10 @@ Art Tech Stack:
     <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/>
 </div>
 
-![snake gif](https://github.com/Elan-Rubin/Elan-Rubin/blob/output/github-user-contribution-grid-snake.svg)
+---
+
+<img src="https://usagif.com/wp-content/uploads/loading-42.gif" height="30" width="40">
+
+---
+
+<!--![snake gif](https://github.com/Elan-Rubin/Elan-Rubin/blob/output/github-user-contribution-grid-snake.svg)
