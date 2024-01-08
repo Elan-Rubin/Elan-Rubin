@@ -18,4 +18,4 @@ Art Tech Stack:
     <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/>
 </div>
 
-![snake gif](https://github.com/Elan-Rubin/Elan-Rubin/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Elan-Rubin/Elan-Rubin/blob/output/github-user-contribution-grid-snake.svg)
