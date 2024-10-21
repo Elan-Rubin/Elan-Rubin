@@ -27,6 +27,19 @@
 </div>
 
 ---
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Elan-Rubin&hide_progress=true&theme=radical"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Elan-Rubin&hide_progress=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elan-Rubin&hide_progress=true" alt="Top Languages" />
+</picture>
+
+---
 
 <img src="https://usagif.com/wp-content/uploads/loading-42.gif" height="30" width="40">
 
